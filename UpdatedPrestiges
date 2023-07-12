@@ -77,7 +77,7 @@
         },
         {
           "abbreviation" : "BAMA",
-          "prestige" : "90",
+          "prestige" : "95",
           "hexColor" : "#A4243B",
           "rivalryNames" : {
 
@@ -97,7 +97,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            "UGA"
+            "TENN"
           ],
           "defCoordinator" : {
             "contractLength" : "2",
